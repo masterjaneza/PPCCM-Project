@@ -4,6 +4,7 @@ function App() {
       <div className="flex-1">
         <picture>
           {/* Image for mobile screens */}
+          {/* another comment for commit */}
           <source
             srcSet="/images/image-product-mobile.jpg"
             media="(max-width: 425px)"
